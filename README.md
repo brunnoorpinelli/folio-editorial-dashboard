@@ -64,6 +64,10 @@ Copy `skills/folio-editorial-dashboard/` into the skills directory used by your 
 └── README.md
 ```
 
+## Credits
+
+This skill is based on the [Interactive Data Dashboard](https://aistudio.google.com/apps/bundled/interactive-data-dashboard?showPreview=true&showAssistant=true) bundled app template from **Google AI Studio**.
+
 ## License
 
 [MIT](LICENSE)
